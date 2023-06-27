@@ -1,0 +1,60 @@
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.exe
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.deps.json
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.runtimeconfig.json
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.dll
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.pdb
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\System.Reactive.dll
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.AssemblyReference.cache
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.AssemblyInfoInputs.cache
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.AssemblyInfo.cs
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.CoreCompileInputs.cache
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.CopyComplete
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.dll
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\refint\Lab3SysProg.dll
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.pdb
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.genruntimeconfig.cache
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\ref\Lab3SysProg.dll
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\NLTKSharp.dll
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\NLTKSharp.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.exe
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.deps.json
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.runtimeconfig.json
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Newtonsoft.Json.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\System.Reactive.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\NLTKSharp.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\NLTKSharp.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.AssemblyReference.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.GeneratedMSBuildEditorConfig.editorconfig
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.AssemblyInfoInputs.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.AssemblyInfo.cs
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.CoreCompileInputs.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.CopyComplete
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\refint\Lab3SysProg.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.genruntimeconfig.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\ref\Lab3SysProg.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.exe
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.deps.json
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.runtimeconfig.json
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Lab3SysProg.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\Newtonsoft.Json.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\System.Reactive.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\NLTKSharp.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\bin\Debug\net7.0-windows7.0\NLTKSharp.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.AssemblyReference.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.GeneratedMSBuildEditorConfig.editorconfig
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.AssemblyInfoInputs.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.AssemblyInfo.cs
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.CoreCompileInputs.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.csproj.CopyComplete
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\refint\Lab3SysProg.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\Lab3SysProg.genruntimeconfig.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0-windows7.0\ref\Lab3SysProg.dll

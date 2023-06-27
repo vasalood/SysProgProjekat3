@@ -1,0 +1,5 @@
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0\Lab3SysProg.csproj.AssemblyReference.cache
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0\Lab3SysProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0\Lab3SysProg.AssemblyInfoInputs.cache
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0\Lab3SysProg.AssemblyInfo.cs
+C:\Users\Uros\source\repos\Lab3SysProg\Lab3SysProg\obj\Debug\net7.0\Lab3SysProg.csproj.CoreCompileInputs.cache

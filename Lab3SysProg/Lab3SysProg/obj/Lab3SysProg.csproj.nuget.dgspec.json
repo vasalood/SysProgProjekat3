@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\Lab3SysProg\\Lab3SysProg.csproj": {}
+  },
+  "projects": {
+    "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\Lab3SysProg\\Lab3SysProg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\Lab3SysProg\\Lab3SysProg.csproj",
+        "projectName": "Lab3SysProg",
+        "projectPath": "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\Lab3SysProg\\Lab3SysProg.csproj",
+        "packagesPath": "C:\\Users\\Vasa\\.nuget\\packages\\",
+        "outputPath": "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\Lab3SysProg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows7.0",
+            "projectReferences": {
+              "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\NLTKSharp\\NLTKSharp\\NLTKSharp.csproj": {
+                "projectPath": "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\NLTKSharp\\NLTKSharp\\NLTKSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\NLTKSharp\\NLTKSharp\\NLTKSharp.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\NLTKSharp\\NLTKSharp\\NLTKSharp.csproj",
+        "projectName": "NLTKSharp",
+        "projectPath": "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\NLTKSharp\\NLTKSharp\\NLTKSharp.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

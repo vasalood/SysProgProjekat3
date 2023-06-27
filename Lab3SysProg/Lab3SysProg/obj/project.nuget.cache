@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYytjiLKVxrHncPGtWnat7rSAFodQK6wpd7IxrM9y3kn0R5HcL3SNiVL9a+3EkVMIZw8GVWt0/tj9UOvfijJYA==",
+  "success": true,
+  "projectFilePath": "F:\\5 ELFAK\\10 Sistemsko programiranje\\4 PROJEKTI\\3 Projekat 3\\SysProgProjekat3\\Lab3SysProg\\Lab3SysProg\\Lab3SysProg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Vasa\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
