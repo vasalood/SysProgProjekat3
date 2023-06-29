@@ -87,5 +87,10 @@ namespace Lab3SysProg.Streams
                 _subject.OnCompleted();
  /*           });*/
         }
+
+        public IObservable<YelpReview> GetProxy()
+        {
+            return _subject.SubscribeOn(ThreadPoolScheduler.Instance).ObserveOn(Scheduler.CurrentThread);
+        }
     }
 }
