@@ -6,3 +6,11 @@ F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\NLTK
 F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.csproj.CoreCompileInputs.cache
 F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.dll
 F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\Treci projekat\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\bin\Debug\NLTKSharp.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\bin\Debug\NLTKSharp.pdb
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.csproj.AssemblyReference.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.Properties.Resources.resources
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.csproj.GenerateResource.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.csproj.CoreCompileInputs.cache
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.dll
+F:\5 ELFAK\10 Sistemsko programiranje\4 PROJEKTI\3 Projekat 3\SysProgProjekat3\Lab3SysProg\NLTKSharp\NLTKSharp\obj\Debug\NLTKSharp.pdb
